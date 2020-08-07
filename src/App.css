@@ -1,0 +1,15 @@
+#preloader{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+input, label{
+    color: white;
+}
